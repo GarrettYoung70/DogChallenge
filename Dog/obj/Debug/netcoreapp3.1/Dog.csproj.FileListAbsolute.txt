@@ -1,0 +1,11 @@
+/Users/garrettyoung/Documents/Dog/bin/Debug/netcoreapp3.1/Dog
+/Users/garrettyoung/Documents/Dog/bin/Debug/netcoreapp3.1/Dog.deps.json
+/Users/garrettyoung/Documents/Dog/bin/Debug/netcoreapp3.1/Dog.runtimeconfig.json
+/Users/garrettyoung/Documents/Dog/bin/Debug/netcoreapp3.1/Dog.runtimeconfig.dev.json
+/Users/garrettyoung/Documents/Dog/bin/Debug/netcoreapp3.1/Dog.dll
+/Users/garrettyoung/Documents/Dog/bin/Debug/netcoreapp3.1/Dog.pdb
+/Users/garrettyoung/Documents/Dog/obj/Debug/netcoreapp3.1/Dog.csprojAssemblyReference.cache
+/Users/garrettyoung/Documents/Dog/obj/Debug/netcoreapp3.1/Dog.AssemblyInfoInputs.cache
+/Users/garrettyoung/Documents/Dog/obj/Debug/netcoreapp3.1/Dog.AssemblyInfo.cs
+/Users/garrettyoung/Documents/Dog/obj/Debug/netcoreapp3.1/Dog.dll
+/Users/garrettyoung/Documents/Dog/obj/Debug/netcoreapp3.1/Dog.pdb
